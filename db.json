@@ -53,12 +53,8 @@
       "id": 8,
       "title": "Chicken Keema Paratha Pizza",
       "link": "https://images.dominos.co.in/Keema.jpg",
-      "price": "",
-      "rate": {
-        "Regular": {
-          "100% Wheat Thin Crust": 249
-        }
-      }
+      "price": "250",
+      "rate":"4.6"
     },
     {
       "id": 9,
@@ -66,7 +62,7 @@
       "title": "Margherita",
       "link": "https://images.dominos.co.in/new_margherita_2502.jpg",
       "price": "Classic delight with 100% real mozzarella cheese",
-      "rate": 
+      "rate": "4.0"
     }
   ],
   "Biryani_Special": [
@@ -137,7 +133,6 @@
   "Snacks": [
     {
       "id": 19,
-      "category": "parathapizza",
       "title": "Corn n Cheese Paratha Pizza",
       "link": "https://images.dominos.co.in/Corn.jpg",
       "price": "49",
