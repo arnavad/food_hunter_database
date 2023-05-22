@@ -1,114 +1,60 @@
 {
-  "bestseller": [
+  "veg": [
     {
       "id": 1,
-      "category": "bestseller",
       "title": "Caprese Gourmet Pizza",
       "link": "https://images.dominos.co.in/Caprese_1.jpg",
-      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "150",
+      "rate": "4.6"
     },
     {
       "id": 2,
-      "category": "bestseller",
       "title": "Primavera Gourmet Pizza",
       "link": "https://images.dominos.co.in/Primavera_1.jpg",
-      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "170",
+      "rate":"4.8"
     },
     {
       "id": 3,
-      "category": "bestseller",
       "title": "Al Fungi Gourmet Pizza",
       "link": "https://images.dominos.co.in/AlFunghi_1.jpg",
-      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "110",
+      "rate": "4.9"
     },
     {
       "id": 4,
-      "category": "bestseller",
       "title": "Chicken Pepperoni Gourmet Pizza",
       "link": "https://images.dominos.co.in/Pepperoni_1.jpg",
-      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 849
-        },
-        "Large": {
-          "New Hand Tossed": 1149
-        }
-      }
+      "price": "100",
+      "rate": "4.5"
     },
     {
       "id": 5,
-      "category": "bestseller",
       "title": "Burrata Pesto Gourmet Pizza",
       "link": "https://images.dominos.co.in/Burrata_1.jpg",
-      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 999
-        },
-        "Large": {
-          "New Hand Tossed": 1299
-        }
-      }
+      "price": "150",
+      "rate": "4.2"
     },
     {
       "id": 6,
-      "category": "bestseller",
       "title": "The 5 Cheese Gourmet Pizza",
       "link": "https://images.dominos.co.in/5Cheese_1.jpg",
-      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "210",
+      "rate": "4.8"
     },
     {
       "id": 7,
-      "category": "bestseller",
       "title": "Paneer Paratha Pizza",
       "link": "https://images.dominos.co.in/Paneer.jpg",
-      "desc": "An epic fusion of paratha and pizza with melting cheese &amp; soft paneer fillings to satisfy all your indulgent cravings",
-      "size": {
-        "Regular": {
-          "100% Wheat Thin Crust": 209
-        }
-      }
+      "price": "150",
+      "rate": "4.6"
     },
     {
       "id": 8,
-      "category": "bestseller",
       "title": "Chicken Keema Paratha Pizza",
       "link": "https://images.dominos.co.in/Keema.jpg",
-      "desc": "Flavourful &amp; meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
-      "size": {
+      "price": "",
+      "rate": {
         "Regular": {
           "100% Wheat Thin Crust": 249
         }
@@ -119,186 +65,98 @@
       "category": "bestseller",
       "title": "Margherita",
       "link": "https://images.dominos.co.in/new_margherita_2502.jpg",
-      "desc": "Classic delight with 100% real mozzarella cheese",
-      "size": {
-        "Regular": {
-          "New Hand Tossed": 109,
-          "100% Wheat Thin Crust": 154,
-          "Cheese Burst": 204,
-          "Fresh Pan Pizza": 154,
-          "Classic Hand Toast": 109
-        },
-        "Medium": {
-          "New Hand Tossed": 239,
-          "100% Wheat Thin Crust": 304,
-          "Cheese Burst": 358,
-          "Fresh Pan Pizza": 294,
-          "Classic Hand Toast": null
-        },
-        "Large": {
-          "New Hand Tossed": 449,
-          "100% Wheat Thin Crust": null,
-          "Cheese Burst": null,
-          "Fresh Pan Pizza": null,
-          "Classic Hand Toast": null
-        }
-      }
+      "price": "Classic delight with 100% real mozzarella cheese",
+      "rate": 
     }
   ],
-  "newlaunches": [
+  "Biryani_Special": [
     {
       "id": 10,
-      "category": "newlaunches",
       "title": "Caprese Gourmet Pizza",
       "link": "https://images.dominos.co.in/Caprese_1.jpg",
-      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "120",
+      "rate": "4.6"
     },
     {
       "id": 11,
-      "category": "newlaunches",
       "title": "Primavera Gourmet Pizza",
       "link": "https://images.dominos.co.in/Primavera_1.jpg",
-      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "125",
+      "rate": "4.8"
     },
     {
       "id": 12,
-      "category": "newlaunches",
       "title": "Al Fungi Gourmet Pizza",
       "link": "https://images.dominos.co.in/AlFunghi_1.jpg",
-      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "150",
+      "rate": "4.8"
     },
     {
       "id": 13,
-      "category": "newlaunches",
       "title": "Chicken Pepperoni Gourmet Pizza",
       "link": "https://images.dominos.co.in/Pepperoni_1.jpg",
-      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 849
-        },
-        "Large": {
-          "New Hand Tossed": 1149
-        }
-      }
+      "price": "175",
+      "rate": "4.8"
     },
     {
       "id": 14,
-      "category": "newlaunches",
       "title": "Burrata Pesto Gourmet Pizza",
       "link": "https://images.dominos.co.in/Burrata_1.jpg",
-      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 999
-        },
-        "Large": {
-          "New Hand Tossed": 1299
-        }
-      }
+      "price": "210",
+      "rate": "4.6"
     },
     {
       "id": 15,
-      "category": "newlaunches",
       "title": "The 5 Cheese Gourmet Pizza",
       "link": "https://images.dominos.co.in/5Cheese_1.jpg",
-      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
-      "size": {
-        "Medium": {
-          "New Hand Tossed": 699
-        },
-        "Large": {
-          "New Hand Tossed": 999
-        }
-      }
+      "price": "140",
+      "rate": "4.0"
     },
     {
       "id": 16,
-      "category": "newlaunches",
       "title": "Paneer Tikka Stuffed Garlic Bread",
       "link": "https://images.dominos.co.in/BRD0030.png",
-      "desc": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
-      "size": {
-        "price": 169
-      }
+      "price": "180",
+      "rate": "4.6"
     },
     {
       "id": 17,
-      "category": "newlaunches",
       "title": "Chicken Pepperoni Stuffed Garlic Bread",
       "link": "https://images.dominos.co.in/BRD0031.png",
-      "desc": "Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley",
-      "size": {
-        "price": 169
-      }
+      "price": "175",
+      "rate": "4.6"
     },
     {
       "id": 18,
-      "category": "newlaunches",
       "title": "Red Velvet Lava Cake",
       "link": "https://images.dominos.co.in/CAKE03.jpg",
-      "desc": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
-      "size": {
-        "price": 139
-      }
+      "price": "40",
+      "rate": "4.8"
     }
   ],
-  "parathapizza": [
+  "Snacks": [
     {
       "id": 19,
       "category": "parathapizza",
       "title": "Corn n Cheese Paratha Pizza",
       "link": "https://images.dominos.co.in/Corn.jpg",
-      "desc": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
-      "size": {
-        "Regular": {
-          "100% Wheat Thin Crust": 179
-        }
-      }
+      "price": "49",
+      "rate": "4.6"
     },
     {
       "id": 20,
-      "category": "parathapizza",
       "title": "Paneer Paratha Pizza",
       "link": "https://images.dominos.co.in/Paneer.jpg",
-      "desc": "An epic fusion of paratha and pizza with melting cheese &amp; soft paneer fillings to satisfy all your indulgent cravings",
-      "size": {
-        "Regular": {
-          "100% Wheat Thin Crust": 209
-        }
-      }
+      "price": "89",
+      "rate": "4.6"
     },
     {
       "id": 21,
       "category": "parathapizza",
       "title": "Chicken Keema Paratha Pizza",
       "link": "https://images.dominos.co.in/Keema.jpg",
-      "desc": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
-      "size": {
+      "price": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "rate": {
         "Regular": {
           "100% Wheat Thin Crust": 249
         }
@@ -309,8 +167,8 @@
       "category": "parathapizza",
       "title": "Basil Pesto Dip",
       "link": "https://images.dominos.co.in/DIP0013.jpg",
-      "desc": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
-      "size": {
+      "price": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
+      "rate": {
         "price": 49
       }
     },
@@ -319,8 +177,8 @@
       "category": "parathapizza",
       "title": "Harissa Dip",
       "link": "https://images.dominos.co.in/DIP0014.jpg",
-      "desc": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
-      "size": {
+      "price": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
+      "rate": {
         "price": 49
       }
     }
@@ -331,8 +189,8 @@
       "category": "vegpizza",
       "title": "The 4 Cheese Pizza",
       "link": "https://images.dominos.co.in/new_margherita_2502.jpg",
-      "desc": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
-      "size": {
+      "price": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 349,
           "100% Wheat Thin Crust": 394,
@@ -360,8 +218,8 @@
       "category": "vegpizza",
       "title": "Al Fungi Gourmet Pizza",
       "link": "https://images.dominos.co.in/new_margherita_2502.jpg",
-      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos & cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box!",
-      "size": {
+      "price": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos & cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 699
         },
@@ -375,8 +233,8 @@
       "category": "vegpizza",
       "title": "Farmhouse",
       "link": "https://images.dominos.co.in/farmhouse.png",
-      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
-      "size": {
+      "price": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 259,
           "100% Wheat Thin Crust": 304,
@@ -405,8 +263,8 @@
       "category": "vegpizza",
       "title": "Moroccan Spice Pasta Pizza - Veg",
       "link": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
-      "desc": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
-      "size": {
+      "price": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 179,
           "100% Wheat Thin Crust": 224,
@@ -430,8 +288,8 @@
       "category": "gourmet",
       "title": "Caprese Gourmet Pizza",
       "link": "https://images.dominos.co.in/Caprese_1.jpg",
-      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
-      "size": {
+      "price": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 699
         },
@@ -445,8 +303,8 @@
       "category": "gourmet",
       "title": "Primavera Gourmet Pizza",
       "link": "https://images.dominos.co.in/Primavera_1.jpg",
-      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
-      "size": {
+      "price": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 699
         },
@@ -460,8 +318,8 @@
       "category": "gourmet",
       "title": "Al Fungi Gourmet Pizza",
       "link": "https://images.dominos.co.in/AlFunghi_1.jpg",
-      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
-      "size": {
+      "price": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 699
         },
@@ -475,8 +333,8 @@
       "category": "gourmet",
       "title": "Chicken Pepperoni Gourmet Pizza",
       "link": "https://images.dominos.co.in/Pepperoni_1.jpg",
-      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
-      "size": {
+      "price": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 849
         },
@@ -490,8 +348,8 @@
       "category": "gourmet",
       "title": "Burrata Pesto Gourmet Pizza",
       "link": "https://images.dominos.co.in/Burrata_1.jpg",
-      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
-      "size": {
+      "price": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 999
         },
@@ -505,8 +363,8 @@
       "category": "gourmet",
       "title": "The 5 Cheese Gourmet Pizza",
       "link": "https://images.dominos.co.in/5Cheese_1.jpg",
-      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
-      "size": {
+      "price": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 699
         },
@@ -522,8 +380,8 @@
       "category": "nonvegpizza",
       "title": "Pepper Barbecue Chicken",
       "link": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
-      "desc": "Pepper barbecue chicken for that extra zing",
-      "size": {
+      "price": "Pepper barbecue chicken for that extra zing",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 249,
           "100% Wheat Thin Crust": 294,
@@ -548,8 +406,8 @@
       "category": "nonvegpizza",
       "title": "Chicken Dominator",
       "link": "https://images.dominos.co.in/new_chicken_dominator.jpg",
-      "desc": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers",
-      "size": {
+      "price": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 359,
           "100% Wheat Thin Crust": 404,
@@ -578,8 +436,8 @@
       "category": "nonvegpizza",
       "title": "Smoked Chicken Gourmet Pizza",
       "link": "https://images.dominos.co.in/SmokedChk_1.jpg",
-      "desc": "The Italian NV pizza experience. An irresistible combination of our juicy rashers with black olives, red & yellow bell peppers and pesto drizzle! Not to forget our ingredient box!",
-      "size": {
+      "price": "The Italian NV pizza experience. An irresistible combination of our juicy rashers with black olives, red & yellow bell peppers and pesto drizzle! Not to forget our ingredient box!",
+      "rate": {
         "Medium": {
           "New Hand Tossed": 849
         },
@@ -593,8 +451,8 @@
       "category": "nonvegpizza",
       "title": "Non Veg Supreme",
       "link": "https://images.dominos.co.in/new_non_veg_supreme.jpg",
-      "desc": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
-      "size": {
+      "price": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
+      "rate": {
         "Regular": {
           "New Hand Tossed": 359,
           "100% Wheat Thin Crust": 404,
@@ -625,8 +483,8 @@
       "category": "beverages",
       "title": "Nagpur Orange",
       "link": "https://images.dominos.co.in/BEV0196-10-oct.jpg",
-      "desc": "Enjoy Oranges from Nagpur with the goodness of Fiber",
-      "size": {
+      "price": "Enjoy Oranges from Nagpur with the goodness of Fiber",
+      "rate": {
         "price": 70
       }
     },
@@ -635,8 +493,8 @@
       "category": "beverages",
       "title": "Pepsi (500ml)",
       "link": "https://images.dominos.co.in/BEV0119_1.jpg",
-      "desc": "Sparkling and Refreshing Beverage",
-      "size": {
+      "price": "Sparkling and Refreshing Beverage",
+      "rate": {
         "price": 60
       }
     },
@@ -645,8 +503,8 @@
       "category": "beverages",
       "title": "7Up (500ml)",
       "link": "https://images.dominos.co.in/7up_new_2202.jpg",
-      "desc": "Refreshing clear drink with a natural lemon flavor",
-      "size": {
+      "price": "Refreshing clear drink with a natural lemon flavor",
+      "rate": {
         "price": 60
       }
     },
@@ -655,8 +513,8 @@
       "category": "beverages",
       "title": "Mirinda (500ml)",
       "link": "https://images.dominos.co.in/mirinda.jpg",
-      "desc": "Delicious Orange Flavoured beverage",
-      "size": {
+      "price": "Delicious Orange Flavoured beverage",
+      "rate": {
         "price": 60
       }
     },
@@ -665,8 +523,8 @@
       "category": "beverages",
       "title": "Pepsi Black Can",
       "link": "https://images.dominos.co.in/pepsi_black.png",
-      "desc": "Maximum Taste Zero Calories",
-      "size": {
+      "price": "Maximum Taste Zero Calories",
+      "rate": {
         "price": 60
       }
     },
@@ -675,8 +533,8 @@
       "category": "beverages",
       "title": "Bailley One (500ml)",
       "link": "https://images.dominos.co.in/BailleyONE.jpg",
-      "desc": "Packaged Drinking Water",
-      "size": {
+      "price": "Packaged Drinking Water",
+      "rate": {
         "price": 20
       }
     }
@@ -687,8 +545,8 @@
       "category": "specialitychicken",
       "title": "Roasted Chicken Wings Peri-Peri",
       "link": "https://images.dominos.co.in/Roasted-chicken.png",
-      "desc": "Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour",
-      "size": {
+      "price": "Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour",
+      "rate": {
         "price": 169
       }
     },
@@ -697,8 +555,8 @@
       "category": "specialitychicken",
       "title": "Roasted Chicken Wings Classic Hot Sauce",
       "link": "https://images.dominos.co.in/Roasted-chicken.png",
-      "desc": "Crisp, Roasted Chicken Wings available in Classic Hot Sauce",
-      "size": {
+      "price": "Crisp, Roasted Chicken Wings available in Classic Hot Sauce",
+      "rate": {
         "price": 169
       }
     },
@@ -707,8 +565,8 @@
       "category": "specialitychicken",
       "title": "Chicken Meatballs Peri-Peri Seasoning",
       "link": "https://images.dominos.co.in/Chicken-Meat-balls.png",
-      "desc": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri seasoning",
-      "size": {
+      "price": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri seasoning",
+      "rate": {
         "price": 149
       }
     },
@@ -717,8 +575,8 @@
       "category": "specialitychicken",
       "title": "Boneless Chicken Wings Peri-Peri",
       "link": "https://images.dominos.co.in/Boneless-Chicken-wings.png",
-      "desc": "Boneless Delight! Baked to Golden Perfection with Peri Peri Sauce",
-      "size": {
+      "price": "Boneless Delight! Baked to Golden Perfection with Peri Peri Sauce",
+      "rate": {
         "price": 179
       }
     },
@@ -727,8 +585,8 @@
       "category": "specialitychicken",
       "title": "Chicken Meatballs Peri-Peri Sauce",
       "link": "https://images.dominos.co.in/chicken_meatballs_peri_peri_sauce.jpg",
-      "desc": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce",
-      "size": {
+      "price": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce",
+      "rate": {
         "price": 149
       }
     }
@@ -739,8 +597,8 @@
       "catagory": "sides",
       "title": "Garlic Breadsticks",
       "link": "https://images.dominos.co.in/Garlic_bread.png",
-      "desc": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
-      "size": {
+      "price": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+      "rate": {
         "price": 109
       }
     },
@@ -749,8 +607,8 @@
       "catagory": "sides",
       "title": "Classic Stuffed Garlic Bread",
       "link": "https://images.dominos.co.in/Stuffed_garlic_Bread.png",
-      "desc": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
-      "size": {
+      "price": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
+      "rate": {
         "price": 159
       }
     },
@@ -759,8 +617,8 @@
       "catagory": "sides",
       "title": "Paneer Tikka Stuffed Garlic Bread",
       "link": "https://images.dominos.co.in/BRD0030.png",
-      "desc": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of",
-      "size": {
+      "price": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of",
+      "rate": {
         "price": 169
       }
     },
@@ -769,8 +627,8 @@
       "catagory": "sides",
       "title": "Basil Pesto Dip",
       "link": "https://images.dominos.co.in/DIP0013.jpg",
-      "desc": "Your perfect pizza partner! Savour your pizza slices with this new rich, herby & salty dip with the goodness",
-      "size": {
+      "price": "Your perfect pizza partner! Savour your pizza slices with this new rich, herby & salty dip with the goodness",
+      "rate": {
         "price": 49
       }
     },
@@ -779,8 +637,8 @@
       "catagory": "sides",
       "title": "Harissa Dip",
       "link": "https://images.dominos.co.in/DIP0014.jpg",
-      "desc": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza",
-      "size": {
+      "price": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza",
+      "rate": {
         "price": 49
       }
     },
@@ -789,8 +647,8 @@
       "catagory": "sides",
       "title": "Chicken Pepperoni Stuffed Garlic Bread",
       "link": "https://images.dominos.co.in/BRD0031.png",
-      "desc": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic...",
-      "size": {
+      "price": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic...",
+      "rate": {
         "price": 169
       }
     },
@@ -799,8 +657,8 @@
       "catagory": "sides",
       "title": "Tomato Ketchup",
       "link": "https://images.dominos.co.in/SACHET.JPG",
-      "desc": "Goodness of Tomato Ketchup in mini sachets",
-      "size": {
+      "price": "Goodness of Tomato Ketchup in mini sachets",
+      "rate": {
         "price": 1
       }
     },
@@ -809,8 +667,8 @@
       "catagory": "sides",
       "title": "Cheesy Jalapeno Dip",
       "link": "https://images.dominos.co.in/new_jalapeno.png",
-      "desc": "A spicy, tangy flavored cheese dip is a an absolute delight with your favourite Garlic Breadsticks & Stuffed",
-      "size": {
+      "price": "A spicy, tangy flavored cheese dip is a an absolute delight with your favourite Garlic Breadsticks & Stuffed",
+      "rate": {
         "price": 30
       }
     },
@@ -819,8 +677,8 @@
       "catagory": "sides",
       "title": "Cheesy Dip",
       "link": "https://images.dominos.co.in/new_jalapeno.png",
-      "desc": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
-      "size": {
+      "price": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
+      "rate": {
         "price": 30
       }
     },
@@ -829,8 +687,8 @@
       "catagory": "sides",
       "title": "Tikka Masala Pasta Veg",
       "link": "https://images.dominos.co.in/PaneerTikkaMasala_N.jpg",
-      "desc": "Instant Fusilli Pasta, Spicy Red dressing, Onion, Paneer Tikka, Parsley sprinkle",
-      "size": {
+      "price": "Instant Fusilli Pasta, Spicy Red dressing, Onion, Paneer Tikka, Parsley sprinkle",
+      "rate": {
         "price": 139
       }
     },
@@ -839,8 +697,8 @@
       "catagory": "sides",
       "title": "Creamy Tomato Pasta Non Veg",
       "link": "https://images.dominos.co.in/CreamyTomatoNV_N.jpg",
-      "desc": "Instant Fusilli Pasta, Creamy Culinary Dressing, Onion, Olives, BBQ Pepper Chicken, Parsley sprinkle",
-      "size": {
+      "price": "Instant Fusilli Pasta, Creamy Culinary Dressing, Onion, Olives, BBQ Pepper Chicken, Parsley sprinkle",
+      "rate": {
         "price": 149
       }
     },
@@ -849,8 +707,8 @@
       "catagory": "sides",
       "title": "Cheesy Jalapeno Pasta Non Veg",
       "link": "https://images.dominos.co.in/jalapenoPastaNV_N.jpg",
-      "desc": "Instant Fusilli Pasta, Cheesy Jalapeno Sauce, Onion, Jalapeno, BBQ Pepper Chicken, Parsley",
-      "size": {
+      "price": "Instant Fusilli Pasta, Cheesy Jalapeno Sauce, Onion, Jalapeno, BBQ Pepper Chicken, Parsley",
+      "rate": {
         "price": 149
       }
     },
@@ -859,8 +717,8 @@
       "catagory": "sides",
       "title": "Taco Mexicana Veg",
       "link": "https://images.dominos.co.in/TacoMexicanaVeg.jpg",
-      "desc": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
-      "size": {
+      "price": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
+      "rate": {
         "price": 179
       }
     },
@@ -869,8 +727,8 @@
       "catagory": "sides",
       "title": "ChefBoss Oregano (50g)",
       "link": "https://images.dominos.co.in/Oregano-4826.png",
-      "desc": "Your favourite oregano seasoning now in a bottle",
-      "size": {
+      "price": "Your favourite oregano seasoning now in a bottle",
+      "rate": {
         "price": 110
       }
     },
@@ -879,8 +737,8 @@
       "catagory": "sides",
       "title": "ChefBoss Chilli Flakes (45g)",
       "link": "https://images.dominos.co.in/Chilli-4827.png",
-      "desc": "Fiery chilli flakes topping in a bottle",
-      "size": {
+      "price": "Fiery chilli flakes topping in a bottle",
+      "rate": {
         "price": 85
       }
     }
@@ -891,8 +749,8 @@
       "category": "pizzamania",
       "title": "Non Veg Loaded",
       "link": "https://images.dominos.co.in/pizza_mania_non-veg_loaded.png",
-      "desc": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust",
-      "size": {
+      "price": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust",
+      "rate": {
         "Regular": {
           "Fresh Pan Pizza": 169
         }
@@ -903,8 +761,8 @@
       "category": "pizzamania",
       "title": "Veg Loaded",
       "link": "https://images.dominos.co.in/pizza_mania_veg_loaded.png",
-      "desc": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
-      "size": {
+      "price": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+      "rate": {
         "Regular": {
           "Fresh Pan Pizza": 159
         }
@@ -915,8 +773,8 @@
       "category": "pizzamania",
       "title": "Cheesy",
       "link": "https://images.dominos.co.in/pizza_mania_cheesy.png",
-      "desc": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
-      "size": {
+      "price": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 109,
           "Fresh Pan Pizza": 154
@@ -928,8 +786,8 @@
       "category": "pizzamania",
       "title": "Chicken Sausage",
       "link": "https://images.dominos.co.in/pizza_mania_chicken_sausage.png",
-      "desc": "American classic! Spicy, herbed chicken sausage on pizza",
-      "size": {
+      "price": "American classic! Spicy, herbed chicken sausage on pizza",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 109,
           "Fresh Pan Pizza": 154
@@ -941,8 +799,8 @@
       "category": "pizzamania",
       "title": "Capsicum",
       "link": "https://images.dominos.co.in/pizza_mania_capsicum.png",
-      "desc": "Fresh & crisp capsicum for the perfect crunch in pizza",
-      "size": {
+      "price": "Fresh & crisp capsicum for the perfect crunch in pizza",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 89,
           "Fresh Pan Pizza": 134
@@ -954,8 +812,8 @@
       "category": "pizzamania",
       "title": "Paneer & Onion",
       "link": "https://images.dominos.co.in/pizza_mania_paneer_onion.png",
-      "desc": "Creamy Paneer & Onion",
-      "size": {
+      "price": "Creamy Paneer & Onion",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 149,
           "Fresh Pan Pizza": 164
@@ -967,8 +825,8 @@
       "category": "pizzamania",
       "title": "Pepper Barbecue Chicken",
       "link": "https://images.dominos.co.in/pizza_mania_pepper_barbeque_chicken.png",
-      "desc": "Pepper barbecue chicken for that extra zing",
-      "size": {
+      "price": "Pepper barbecue chicken for that extra zing",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 119,
           "Fresh Pan Pizza": 164
@@ -980,8 +838,8 @@
       "category": "pizzamania",
       "title": "Onion",
       "link": "https://images.dominos.co.in/pizza_mania_onion.png",
-      "desc": "Crunchy onion on a cheesy base. The pizza mania classic",
-      "size": {
+      "price": "Crunchy onion on a cheesy base. The pizza mania classic",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 69,
           "Fresh Pan Pizza": 114
@@ -993,8 +851,8 @@
       "category": "pizzamania",
       "title": "Tomato",
       "link": "https://images.dominos.co.in/new_pizza_mania_tomato.jpg",
-      "desc": "Juicy tomato in a flavourful combination with cheese & tangy sauce",
-      "size": {
+      "price": "Juicy tomato in a flavourful combination with cheese & tangy sauce",
+      "rate": {
         "Regular": {
           "Classic Hand Tossed": 59,
           "Fresh Pan Pizza": 104
@@ -1008,8 +866,8 @@
       "category": "lunchcombos",
       "title": "Tomato Lunch Combo",
       "link": "https://images.dominos.co.in/CMB1281-COM10_1.jpg",
-      "desc": "Value Meal for 1: Tomato + Pepsi PET",
-      "size": {
+      "price": "Value Meal for 1: Tomato + Pepsi PET",
+      "rate": {
         "price": 99
       }
     },
@@ -1018,8 +876,8 @@
       "category": "lunchcombos",
       "title": "Paneer Special Lunch Combo",
       "link": "https://images.dominos.co.in/CMB1281-COM04_1.jpg",
-      "desc": "Value Meal for 1: Paneer Onion Pizza Mania + Pepsi PET",
-      "size": {
+      "price": "Value Meal for 1: Paneer Onion Pizza Mania + Pepsi PET",
+      "rate": {
         "price": 149
       }
     },
@@ -1028,8 +886,8 @@
       "category": "lunchcombos",
       "title": "Classic Non Veg Lunch Combo",
       "link": "https://images.dominos.co.in/CMB1281-COM07_1.jpg",
-      "desc": "Value Meal for 1: Pepper Barbecue Chicken Pizza Mania + Pepsi PETf",
-      "size": {
+      "price": "Value Meal for 1: Pepper Barbecue Chicken Pizza Mania + Pepsi PETf",
+      "rate": {
         "price": 149
       }
     },
@@ -1038,8 +896,8 @@
       "category": "lunchcombos",
       "title": "Loaded Veg Lunch Combo",
       "link": "https://images.dominos.co.in/DIP0013.jpg",
-      "desc": "Value Meal for 1: Loaded Veg Pizza Mania + Pepsi PET",
-      "size": {
+      "price": "Value Meal for 1: Loaded Veg Pizza Mania + Pepsi PET",
+      "rate": {
         "price": 199
       }
     },
@@ -1048,8 +906,8 @@
       "category": "lunchcombos",
       "title": "Loaded Non Veg Lunch combo",
       "link": "https://images.dominos.co.in/DIP0014.jpg",
-      "desc": "Value Meal for 1: Loaded Non Veg Pizza Mania + Pepsi PET",
-      "size": {
+      "price": "Value Meal for 1: Loaded Non Veg Pizza Mania + Pepsi PET",
+      "rate": {
         "price": 199
       }
     },
@@ -1058,8 +916,8 @@
       "category": "lunchcombos",
       "title": "Tomato Garlic Bread Lunch Combo",
       "link": "https://images.dominos.co.in/BRD0031.png",
-      "desc": "Tomato Pizza Mania + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Tomato Pizza Mania + Garlic Bread + Pepsi",
+      "rate": {
         "price": 199
       }
     }
@@ -1070,8 +928,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Moroccan Pasta Pizza & Achari Do Pyaza",
       "link": "https://images.dominos.co.in/CMB1391.jpg",
-      "desc": "Regular Moroccan Pasta Pizza Veg + Regular Achari do Pyaza + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Moroccan Pasta Pizza Veg + Regular Achari do Pyaza + Garlic Bread + Pepsi",
+      "rate": {
         "price": 339
       }
     },
@@ -1080,8 +938,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Margherita & Farmhouse",
       "link": "https://images.dominos.co.in/CMB1375.jpg",
-      "desc": "Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi",
+      "rate": {
         "price": 429
       }
     },
@@ -1090,8 +948,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Margherita & Peppy Paneer",
       "link": "https://images.dominos.co.in/CMB1376.jpg",
-      "desc": "Regular Margherita + Regular Peppy Paneer + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Margherita + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "rate": {
         "price": 429
       }
     },
@@ -1100,8 +958,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Farmhouse & Veg Extravaganza",
       "link": "https://images.dominos.co.in/CMB1382.jpg",
-      "desc": "Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi",
+      "rate": {
         "price": 579
       }
     },
@@ -1110,8 +968,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Farmhouse & Peppy Paneer",
       "link": "https://images.dominos.co.in/CMB1380.jpg",
-      "desc": "Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "rate": {
         "price": 549
       }
     },
@@ -1120,8 +978,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Veg Extravaganza & Peppy Paneer",
       "link": "https://images.dominos.co.in/CMB1381.jpg",
-      "desc": "Regular Veg Extravaganza + Regular Peppy Paneer + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Veg Extravaganza + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "rate": {
         "price": 579
       }
     },
@@ -1130,8 +988,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Veg Extravaganza & Indi Tandoori Paneer",
       "link": "https://images.dominos.co.in/CMB1383.jpg",
-      "desc": "Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi",
+      "rate": {
         "price": 609
       }
     },
@@ -1140,8 +998,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Margherita & Farmhouse",
       "link": "https://images.dominos.co.in/CMB1389.jpg",
-      "desc": "Regular Margherita + Regular Farmhouse + Garlic Bread + Mixed Fruit B Natural Juice",
-      "size": {
+      "price": "Regular Margherita + Regular Farmhouse + Garlic Bread + Mixed Fruit B Natural Juice",
+      "rate": {
         "price": 449
       }
     },
@@ -1150,8 +1008,8 @@
       "category": "mealfortwo",
       "title": "Meal for 2: Chicken Dominator & Chicken Golden Delight",
       "link": "https://images.dominos.co.in/CMB1385.jpg",
-      "desc": "Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi",
-      "size": {
+      "price": "Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi",
+      "rate": {
         "price": 579
       }
     }
@@ -1162,8 +1020,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Non Veg Extravaganza & Chicken Dominator",
       "link": "https://images.dominos.co.in/CMB1411.jpg",
-      "desc": "Medium Non Veg Extravaganza + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Non Veg Extravaganza + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 919
       }
     },
@@ -1172,8 +1030,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Margherita & Peppy Paneer",
       "link": "https://images.dominos.co.in/CMB1400.jpg",
-      "desc": "Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 739
       }
     },
@@ -1182,8 +1040,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Corn n Cheese & Farmhouse",
       "link": "https://images.dominos.co.in/CMB1401.jpg",
-      "desc": "Medium Corn n Cheese + Medium Farmhouse + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Corn n Cheese + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 849
       }
     },
@@ -1192,8 +1050,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Peppy Paneer & Farmhouse",
       "link": "https://images.dominos.co.in/CMB1402.jpg",
-      "desc": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 919
       }
     },
@@ -1202,8 +1060,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Margherita & Peppy Paneer",
       "link": "https://images.dominos.co.in/CMB1403.jpg",
-      "desc": "Medium Feast Veg Extravanga + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Feast Veg Extravanga + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 1059
       }
     },
@@ -1212,8 +1070,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Corn n Cheese & Farmhouser",
       "link": "https://images.dominos.co.in/CMB1410.jpg",
-      "desc": "Medium Feast Veg Extravanga + Medium Farmhouse + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Feast Veg Extravanga + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 989
       }
     },
@@ -1222,8 +1080,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Peppy Paneer & Veg Paradise",
       "link": "https://images.dominos.co.in/CMB1409.jpg",
-      "desc": "Medium Veg Paradise + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Veg Paradise + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 919
       }
     },
@@ -1232,8 +1090,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Farmhouse & Veg Paradise",
       "link": "https://images.dominos.co.in/CMB1408.jpg",
-      "desc": "Medium Farmhouse + Medium Veg Paradise + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Farmhouse + Medium Veg Paradise + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 919
       }
     },
@@ -1242,8 +1100,8 @@
       "category": "mealfortwo",
       "title": "Meal for 4: Pepper BBQ Chicken & Chicken Dominator",
       "link": "https://images.dominos.co.in/CMB1405.jpg",
-      "desc": "Medium Pepper BBQ Chicken + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
-      "size": {
+      "price": "Medium Pepper BBQ Chicken + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+      "rate": {
         "price": 999
       }
     }
@@ -1254,8 +1112,8 @@
       "category": "dessert",
       "title": "Red Velvet Lava Cake",
       "link": "https://images.dominos.co.in/CAKE03.jpg",
-      "desc": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
-      "size": {
+      "price": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+      "rate": {
         "price": 139
       }
     },
@@ -1264,8 +1122,8 @@
       "category": "dessert",
       "title": "Choco Lava Cake",
       "link": "https://images.dominos.co.in/Choco_Lava.png",
-      "desc": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
-      "size": {
+      "price": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
+      "rate": {
         "price": 109
       }
     },
@@ -1274,8 +1132,8 @@
       "category": "dessert",
       "title": "Butterscotch Mousse Cake",
       "link": "https://images.dominos.co.in/Butterscotch.png",
-      "desc": "Sweet temptation! Butterscotch flavored mousse",
-      "size": {
+      "price": "Sweet temptation! Butterscotch flavored mousse",
+      "rate": {
         "price": 109
       }
     },
@@ -1284,8 +1142,8 @@
       "category": "dessert",
       "title": "Brownie Fantasy",
       "link": "https://images.dominos.co.in/Brownie_Fantasy.png",
-      "desc": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce",
-      "size": {
+      "price": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce",
+      "rate": {
         "price": 79
       }
     }
@@ -1296,8 +1154,8 @@
       "category": "chefboss",
       "title": "ChefBoss Oregano (50g)",
       "link": "https://images.dominos.co.in/Oregano-4826.png",
-      "desc": "Your favourite oregano seasoning now in a bottle",
-      "size": {
+      "price": "Your favourite oregano seasoning now in a bottle",
+      "rate": {
         "price": 110
       }
     },
@@ -1306,8 +1164,8 @@
       "category": "chefboss",
       "title": "ChefBoss Chilli Flakes (45g)",
       "link": "https://images.dominos.co.in/Chilli-4827.png",
-      "desc": "Fiery chilli flakes topping in a bottle",
-      "size": {
+      "price": "Fiery chilli flakes topping in a bottle",
+      "rate": {
         "price": 85
       }
     }
