@@ -67,29 +67,29 @@
   "Biryani_Special": [
     {
       "id": 10,
-      "title": "Caprese Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Caprese_1.jpg",
-      "price": "120",
+      "title": "Mushroom Biryani",
+      "link": "https://spicesnflavors.com/wp-content/uploads/2017/07/mushroom-biryani-3-min.png",
+      "price": "180",
       "rate": "4.6"
     },
     {
       "id": 11,
-      "title": "Primavera Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Primavera_1.jpg",
+      "title": "Aloo Dum Biryani",
+      "link": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/aloo-biryani.jpg",
       "price": "125",
       "rate": "4.8"
     },
     {
       "id": 12,
-      "title": "Al Fungi Gourmet Pizza",
-      "link": "https://images.dominos.co.in/AlFunghi_1.jpg",
-      "price": "150",
+      "title": "Paneer Biryani",
+      "link": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-biryani-recipe.jpg",
+      "price": "170",
       "rate": "4.8"
     },
     {
       "id": 13,
-      "title": "Chicken Pepperoni Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Pepperoni_1.jpg",
+      "title": "Mixed Veg Biryani",
+      "link": "https://www.whiskaffair.com/wp-content/uploads/2020/08/Veg-Biryani-2-3.jpg",
       "price": "175",
       "rate": "4.8"
     },
@@ -330,16 +330,10 @@
   "orders": [
     {
       "id": 1,
-      "phone": 1234567890,
-      "orders": [
-        {
-          "totalbill": 999,
-          "payment-method": "CARD",
-          "cardno": "0000",
-          "date": "21/01/2023",
-          "address": ""
-        }
-      ]
+      "title": "Channa Bhatture",
+      "link": "https://www.secondrecipe.com/wp-content/uploads/2016/04/channa-bhatura-540x720.jpg",
+      "price": "100",
+      "rate": "4.6"
     }
   ]
 }
