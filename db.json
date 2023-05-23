@@ -320,28 +320,7 @@
       }
     }
   ],
-  "chefboss": [
-    {
-      "id": 101,
-      "category": "chefboss",
-      "title": "ChefBoss Oregano (50g)",
-      "link": "https://images.dominos.co.in/Oregano-4826.png",
-      "price": "Your favourite oregano seasoning now in a bottle",
-      "rate": {
-        "price": 110
-      }
-    },
-    {
-      "id": 102,
-      "category": "chefboss",
-      "title": "ChefBoss Chilli Flakes (45g)",
-      "link": "https://images.dominos.co.in/Chilli-4827.png",
-      "price": "Fiery chilli flakes topping in a bottle",
-      "rate": {
-        "price": 85
-      }
-    }
-  ],
+  
   "divyansh": [
     {
       "id": 1,
