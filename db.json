@@ -2,67 +2,66 @@
   "veg": [
     {
       "id": 1,
-      "title": "Caprese Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Caprese_1.jpg",
-      "price": "150",
+      "title": "Channa Bhatture",
+      "link": "https://www.secondrecipe.com/wp-content/uploads/2016/04/channa-bhatura-540x720.jpg",
+      "price": "100",
       "rate": "4.6"
     },
     {
       "id": 2,
-      "title": "Primavera Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Primavera_1.jpg",
-      "price": "170",
+      "title": "Chole Bhatture",
+      "link": "https://i.ytimg.com/vi/csfIOfMnRGg/maxresdefault.jpg",
+      "price": "110",
       "rate":"4.8"
     },
     {
       "id": 3,
-      "title": "Al Fungi Gourmet Pizza",
-      "link": "https://images.dominos.co.in/AlFunghi_1.jpg",
-      "price": "110",
-      "rate": "4.9"
+      "title": "Veg Manchurian",
+      "link": "https://holycowvegan.net/wp-content/uploads/2020/03/veg-manchurian-7.jpg",
+      "price": "99",
+      "rate": "4.5"
     },
     {
       "id": 4,
-      "title": "Chicken Pepperoni Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Pepperoni_1.jpg",
+      "title": "Mushroom Chilli",
+      "link": "https://i.pinimg.com/736x/73/db/83/73db83a9165b4d72919183796e809b70.jpg",
       "price": "100",
       "rate": "4.5"
     },
     {
       "id": 5,
-      "title": "Burrata Pesto Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Burrata_1.jpg",
-      "price": "150",
-      "rate": "4.2"
+      "title": "Paneer Butter Masala",
+      "link": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
+      "price": "180",
+      "rate": "4.8"
     },
     {
       "id": 6,
-      "title": "The 5 Cheese Gourmet Pizza",
-      "link": "https://images.dominos.co.in/5Cheese_1.jpg",
-      "price": "210",
+      "title": "Kadahi Paneer",
+      "link": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/kadai-paneer-recipe.jpg",
+      "price": "130",
       "rate": "4.8"
     },
     {
       "id": 7,
-      "title": "Paneer Paratha Pizza",
-      "link": "https://images.dominos.co.in/Paneer.jpg",
-      "price": "150",
+      "title": "Naan(2 Piece)",
+      "link": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/07/naan-recipe-2.jpg",
+      "price": "60",
       "rate": "4.6"
     },
     {
       "id": 8,
-      "title": "Chicken Keema Paratha Pizza",
-      "link": "https://images.dominos.co.in/Keema.jpg",
-      "price": "250",
+      "title": "Kulcha(3 Piece)",
+      "link": "https://www.chefkunalkapur.com/wp-content/uploads/2021/05/Tawa-Kulcha-scaled.jpg?v=1620921059",
+      "price": "60",
       "rate":"4.6"
     },
     {
       "id": 9,
-      "category": "bestseller",
-      "title": "Margherita",
-      "link": "https://images.dominos.co.in/new_margherita_2502.jpg",
-      "price": "Classic delight with 100% real mozzarella cheese",
-      "rate": "4.0"
+      "title": "Paratha(4 Piece)",
+      "link": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/paratha-recipe.jpg",
+      "price": "60",
+      "rate": "4.2"
     }
   ],
   "Biryani_Special": [
