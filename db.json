@@ -95,38 +95,17 @@
     },
     {
       "id": 14,
-      "title": "Burrata Pesto Gourmet Pizza",
-      "link": "https://images.dominos.co.in/Burrata_1.jpg",
+      "title": "Veg Dum Hyderabadi Biryani",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/537353223d48eb99740a1193368e5424",
       "price": "210",
       "rate": "4.6"
     },
     {
       "id": 15,
-      "title": "The 5 Cheese Gourmet Pizza",
-      "link": "https://images.dominos.co.in/5Cheese_1.jpg",
+      "title": "Paneer Dum Biryani [1/2 Kg] Serves 1-2",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/grspjwk5mb6hztspfuaj",
       "price": "140",
       "rate": "4.0"
-    },
-    {
-      "id": 16,
-      "title": "Paneer Tikka Stuffed Garlic Bread",
-      "link": "https://images.dominos.co.in/BRD0030.png",
-      "price": "180",
-      "rate": "4.6"
-    },
-    {
-      "id": 17,
-      "title": "Chicken Pepperoni Stuffed Garlic Bread",
-      "link": "https://images.dominos.co.in/BRD0031.png",
-      "price": "175",
-      "rate": "4.6"
-    },
-    {
-      "id": 18,
-      "title": "Red Velvet Lava Cake",
-      "link": "https://images.dominos.co.in/CAKE03.jpg",
-      "price": "40",
-      "rate": "4.8"
     }
   ],
   "Snacks": [
@@ -147,34 +126,26 @@
     {
       "id": 21,
        
-      "title": "Chicken Keema Paratha Pizza",
-      "link": "https://images.dominos.co.in/Keema.jpg",
-      "price": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
-      "rate": {
-        "Regular": {
-          "100% Wheat Thin Crust": 249
-        }
-      }
+      "title": "Mcaloo Tikki Burger",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ni4jj1hlo4zt7i3ioaow",
+      "price": "57",
+      "rate": "4.5"
     },
     {
       "id": 22,
        
-      "title": "Basil Pesto Dip",
-      "link": "https://images.dominos.co.in/DIP0013.jpg",
-      "price": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
-      "rate": {
-        "price": 49
-      }
+      "title": "Veggie Hakka Noodles Regular",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bic5are4s6mipn6cp24i",
+      "price": "150",
+      "rate": "4.8"
     },
     {
       "id": 23,
        
-      "title": "Harissa Dip",
-      "link": "https://images.dominos.co.in/DIP0014.jpg",
-      "price": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
-      "rate": {
-        "price": 49
-      }
+      "title": "Cheese Burger",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/27d50d090204761161f9667b51862f8a",
+      "price": "65",
+      "rate":"4.6"
     }
   ],
   "South-Indian": [
@@ -200,84 +171,42 @@
       "title": "Butter Masala Dosa",
       "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/uj3nynqpy6its2iw6gc0",
       "price": "90",
-      "rate": {
-        "Regular": {
-          "New Hand Tossed": 259,
-          "100% Wheat Thin Crust": 304,
-          "Cheese Burst": 354,
-          "Fresh Pan Pizza": 304,
-          "Classic Hand Toast": 259
-        },
-        "Medium": {
-          "New Hand Tossed": 459,
-          "100% Wheat Thin Crust": 524,
-          "Cheese Burst": 578,
-          "Fresh Pan Pizza": 514,
-          "Classic Hand Toast": null
-        },
-        "Large": {
-          "New Hand Tossed": 689,
-          "100% Wheat Thin Crust": null,
-          "Cheese Burst": null,
-          "Fresh Pan Pizza": null,
-          "Classic Hand Toast": null
-        }
-      }
+      "rate": "4.2"
     },
     {
       "id": 27,
        
-      "title": "Moroccan Spice Pasta Pizza - Veg",
-      "link": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
-      "price": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
-      "rate": {
-        "Regular": {
-          "New Hand Tossed": 179,
-          "100% Wheat Thin Crust": 224,
-          "Cheese Burst": 274,
-          "Fresh Pan Pizza": 224,
-          "Classic Hand Toast": 179
-        },
-        "Medium": {
-          "New Hand Tossed": 329,
-          "100% Wheat Thin Crust": 394,
-          "Cheese Burst": 448,
-          "Fresh Pan Pizza": 384,
-          "Classic Hand Toast": null
-        }
-      }
+      "title": "Podi Idli(10 pcs)",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/rgvk6jsn34cdslspkjrm",
+      "price": "139",
+      "rate": "4.7"
     }
   ],
   
   "dessert": [
     {
       "id": 97,
-      "category": "dessert",
+     
       "title": "Red Velvet Lava Cake",
       "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/xtjjzrlz2e3w67beisxk",
-      "price": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
-      "rate": {
-        "price": 139
-      }
+      "price": "139",
+      "rate":"4.9"
     },
     {
       "id": 98,
-      "category": "dessert",
+     
       "title": "Choco Lava Cake",
       "link": "https://images.dominos.co.in/Choco_Lava.png",
-      "price": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
-      "rate": {
-        "price": 109
-      }
+      "price": "109",
+      "rate": "4.4"
     },
     {
       "id": 99,
-      "category": "dessert",
+     
       "title": "Butterscotch Mousse Cake",
       "link": "https://images.dominos.co.in/Butterscotch.png",
-      "price": "Sweet temptation! Butterscotch flavored mousse",
-      "rate": {
-        "price": 109
+      "price": "109",
+      "rate": "4.3"
       }
     },
     {
@@ -285,10 +214,8 @@
       "category": "dessert",
       "title": "Brownie Fantasy",
       "link": "https://images.dominos.co.in/Brownie_Fantasy.png",
-      "price": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce",
-      "rate": {
-        "price": 79
-      }
+      "price": "79",
+      "rate": "4.6"
     }
   ],
   
@@ -307,5 +234,5 @@
       "price": "100",
       "rate": "4.6"
     }
-  ]
+  ],
 }
