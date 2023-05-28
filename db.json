@@ -254,7 +254,7 @@
       "id": 97,
       "category": "dessert",
       "title": "Red Velvet Lava Cake",
-      "link": "https://images.dominos.co.in/CAKE03.jpg",
+      "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/xtjjzrlz2e3w67beisxk",
       "price": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
       "rate": {
         "price": 139
@@ -292,7 +292,7 @@
     }
   ],
   
-  "divyansh": [
+  "Admins": [
     {
       "id": 1,
       "phone": "1234567890",
