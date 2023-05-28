@@ -183,7 +183,7 @@
        
       "title": "Paneer Masala Dosa",
       "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/g9xuikoyoclebugfwkpm",
-      "price": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+      "price": "80",
       "rate":"4.5"
     },
     {
@@ -191,7 +191,7 @@
        
       "title": "Masala Dosa",
       "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zwwvg43g15n2s86jq6pm",
-      "price": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos & cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box!",
+      "price": "70",
       "rate": "4.6"
     },
     {
@@ -199,7 +199,7 @@
        
       "title": "Butter Masala Dosa",
       "link": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/uj3nynqpy6its2iw6gc0",
-      "price": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "price": "90",
       "rate": {
         "Regular": {
           "New Hand Tossed": 259,
